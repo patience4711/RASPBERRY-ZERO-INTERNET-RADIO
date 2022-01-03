@@ -13,9 +13,10 @@ This is not the first raspberry internet radio, i know. But this one is:
 <br>
 Just buy the components, connect some wires between them and thats it!. Oh, and burn an image of the radio operating system on an sd card.
 
-It would be a nice birthday present as it is very easy to operate. This radio has a lot of nice features. All controllable via a webinterface. There is a.o. a 10 channel equalizer, a timer and mp3player. You can easely compile 2 lists of favorite stations. Artists / Songtitles are shown on the LCD and the webpage. Watch the simple video to get an idea..
+It would be a nice birthday present as it is very easy to operate. This radio has a lot of nice features. All controllable via a webinterface. There is a.o. a 10 channel equalizer, a timer and mp3player. You can easely compile 2 lists of favorite stations. Artists / Songtitles are shown on the LCD and the webpage. I you want to build it: visit instructables https://www.instructables.com/RASPBERRY-ZERO-INTERNET-RADIO-1/
+br><br>Watch the simple video to get an idea..
 video: https://www.youtube.com/watch?v=eWSDHgmhwg8
-download sd card image:
+<br><br>download sd card image:
 https://1drv.ms/u/s!AkMG5FvUwhediS6tpbB2EgLpOtdB?e=lCA4kl
 
 minimal hardware
