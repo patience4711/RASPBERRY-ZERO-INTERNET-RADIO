@@ -19,6 +19,7 @@ video: https://www.youtube.com/watch?v=eWSDHgmhwg8
 <br><br>download sd card image:
 https://1drv.ms/u/s!AkMG5FvUwhediS6tpbB2EgLpOtdB?e=lCA4kl
 
+see the wiki: https://github.com/patience4711/RASPBERRY-ZERO-INTERNET-RADIO/wiki<br>
 minimal hardware
 
 ![zero_1](https://user-images.githubusercontent.com/12282915/147959158-b923091e-5920-4054-911e-7d959abda161.jpg)
